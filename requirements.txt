@@ -1,0 +1,12 @@
+wheel
+termcolor
+schedule
+TTS
+prettytable
+g4f
+moviepy
+Pillow==9.5.0
+assemblyai
+srt_equalizer
+platformdirs
+imageio[pyav]
